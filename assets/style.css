@@ -1,0 +1,14 @@
+*{
+  padding :0;
+  margin : 0;
+  box-sizing: 0; 
+}
+
+/*HERO */
+.hero {
+    height: 28rem;
+    background-image:linear-gradient(rgb( 0,0,0,0.7),rgb(0,0,0,0.7)),url(../assets/img/hero_image.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
